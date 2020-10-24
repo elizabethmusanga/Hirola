@@ -621,7 +621,7 @@ section {
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
 
-.why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
+.why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p, .why-us .box:hover h5{
   color: #fff;
 }
 
