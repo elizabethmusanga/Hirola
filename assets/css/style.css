@@ -155,14 +155,14 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(52, 58, 64, 0.2);
+  background: rgba(56, 63, 70, 0.2);
   transition: all 0.5s;
   z-index: 997;
 }
 
 #header.header-scrolled {
   top: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(70, 109, 218, 0.9);
 }
 
 #header .logo {
